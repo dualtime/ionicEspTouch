@@ -1,5 +1,7 @@
 {
   "name": "testLatestEsp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
