@@ -6,6 +6,7 @@ Steps:
 Clone repo and Run:
 
 npm i
+
 ionic cordova platform add android/ios
 
 Then you must run on a device (android/ios):
