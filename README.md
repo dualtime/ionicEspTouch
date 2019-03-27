@@ -7,7 +7,7 @@ Clone repo and Run:
 
 npm i
 
-ionic cordova platform add android/ios
+ionic cordova platform add android@7.1.1/ios
 
 ionic cordova plugin add cordova-plugin-esptouch@1.0.3
 
