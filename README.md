@@ -9,7 +9,7 @@ npm i
 
 ionic cordova platform add android@7.1.1/ios
 
-ionic cordova plugin add cordova-plugin-esptouch@1.0.3
+ionic cordova plugin add cordova-plugin-esptouch
 
 Then you need to change on home.ts the parameters passed to esptouch start function starting on line 16.
 
